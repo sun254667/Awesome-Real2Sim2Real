@@ -136,6 +136,11 @@ Sim-to-real transfer addresses the critical challenge of deploying policies trai
 
 ### 2.3 Domain Randomization & Adaptation
 
++ **Effective Parameters, Real Behavior: Renormalization for Robotics -- From Infinite Electron Mass to Sim-to-Real Gap**
+    - Publication: arXiv 2026
+    - Highlights: Fits simulator parameters as effective values that depend on resolution and match the real robot. Derives closed-form PD-control corrections for a finite simulation frequency.
+    - Paper Link: [arXiv](https://arxiv.org/abs/2607.24079)
+
 + **How Should a Simulation-to-Reality Transfer Budget Be Spent?**
     - Publication: arXiv 2026 (IROS 2026 Workshop)
     - Highlights: Given a small budget of real-robot data, systematically studies whether it is better to measure the system or to randomize the simulator
